@@ -2,10 +2,6 @@
 POCProxy is a Multi-Ming tool for POC like chains which derived from BURSTCOIN.
 
 
-About
-=====
-POCProxy is a Multi-Ming tool for POC like chains which derived from BURSTCOIN.
-
 
 Features
 ========
