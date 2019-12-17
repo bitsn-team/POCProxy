@@ -18,8 +18,8 @@ Configuration directives
 ========================
 POCProxy
 --------
-Miners need to modify the pool config in the jar file, winzip or winrar will be ok:
-POCProxy.jar\BOOT-INF\classes\poolInfos.xml
+Miners need to modify the pool parameters in the config directory:
+poolinfo.config.path should set to ABSOLUTE PATH of poolInfos.xml
 
 scavenger
 ---------
@@ -56,3 +56,7 @@ Work on the original was fully funded by BSH project (http://www.bitsh.io/).
 See also
 ========
 ddProxy: http://www.ddproxy.sg/
+
+DownLoad
+========
+http://tools.bitsh.io/download/POCProxy_V0.9_Release.zip
